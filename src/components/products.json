@@ -1,35 +1,33 @@
 [
-    [
+  
   {
     "id": 1,
     "name": "Ayam Geprek",
     "price": "Rp 25.000",
-    "image": "/images/ayam-geprek.jpg"
+    "image": "/img/ayam-geprek.jpg"
   },
   {
     "id": 2,
     "name": "Ayam Sambal",
     "price": "Rp 25.000",
-    "image": "/images/ayam-geprek.jpg"
+    "image": "/img/ayam-geprek.jpg"
   },
   {
     "id": 3,
     "name": "Bebek Goreng",
     "price": "Rp 35.000",
-    "image": "/images/ayam-geprek.jpg"
+    "image": "/img/ayam-geprek.jpg"
   },
   {
     "id": 4,
     "name": "Ayam Tumpah",
     "price": "Rp 25.000",
-    "image": "/images/ayam-geprek.jpg"
+    "image": "/img/ayam-geprek.jpg"
   },
   {
     "id": 5,
     "name": "Sate Ayam",
     "price": "Rp 30.000",
-    "image": "/images/sate-ayam.jpg"
+    "image": "/img/ayam-geprek.jpg"
   }
-]
-
 ]

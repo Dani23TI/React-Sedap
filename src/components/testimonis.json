@@ -3,30 +3,30 @@
     "id": 1,
     "name": "Budi",
     "review": "Makanannya enak banget!",
-    "avatar": "https://avatar-placeholder.iran.liara.run/1"
+    "avatar": "https://avatar.iran.liara.run/public/17"
   },
   {
     "id": 2,
     "name": "Sari",
     "review": "Pelayanan cepat dan ramah.",
-    "avatar": "https://avatar-placeholder.iran.liara.run/2"
+    "avatar": "https://avatar.iran.liara.run/public/58"
   },
   {
     "id": 3,
     "name": "Dina",
     "review": "Pelayanan Baik.",
-    "avatar": "https://avatar-placeholder.iran.liara.run/2"
+    "avatar": "https://avatar.iran.liara.run/public/60"
   },
   {
     "id": 4,
     "name": "Dian",
     "review": "Bau.",
-    "avatar": "https://avatar-placeholder.iran.liara.run/2"
+    "avatar": "https://avatar.iran.liara.run/public/63"
   },
   {
     "id": 5,
     "name": "Kadi",
     "review": "ENAK.",
-    "avatar": "https://avatar-placeholder.iran.liara.run/2"
+    "avatar": "https://avatar.iran.liara.run/public/4"
   }
 ]

@@ -30,7 +30,7 @@ const Register = React.lazy(() => import("./pages/auth/Register"))
 const Forgot = React.lazy(() => import("./pages/auth/Forgot"))
 const ErrorPage = React.lazy(() => import("./pages/ErrorPage"));
 const User = React.lazy(() => import("./pages/User"));
-const Guest = React.lazy(() => import("./pages/guest/Guest"));
+// const Guest = React.lazy(() => import("./pages/guest/Guest"));
 const CekMember = React.lazy(() => import("./pages/CekMember"));
 
 
