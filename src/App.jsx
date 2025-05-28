@@ -1,22 +1,12 @@
 import React from "react";
-import "./assets/tailwind.css"
-// import Dashboard from './pages/Dashboard';
-// import Customers from './pages/Customers';
-// import Orders from './pages/Orders';
-// import NotFound from './pages/NotFound';
+import "./assets/tailwind.css";
 import About from './pages/About';
 import ProdukUnggulan from './pages/ProdukUnggulan';
 import Hero from './pages/Hero';
-// import ErrorPage from './pages/ErrorPage';
 import {Route, Routes} from "react-router-dom";
 import { Suspense } from "react";
 import Loading from "./components/Loading";
 import Testimonis from "./pages/Testimonis";
-// import MainLayout from "./layouts/MainLayout";
-// import AuthLayout from "./layouts/AuthLayout";
-// import Login from "./pages/auth/Login";
-// import Register from "./pages/auth/Register";
-// import Forgot from "./pages/auth/Forgot";
 
 
 const Dashboard = React.lazy(() => import("./pages/Dashboard"))
@@ -30,7 +20,6 @@ const Register = React.lazy(() => import("./pages/auth/Register"))
 const Forgot = React.lazy(() => import("./pages/auth/Forgot"))
 const ErrorPage = React.lazy(() => import("./pages/ErrorPage"));
 const User = React.lazy(() => import("./pages/User"));
-// const Guest = React.lazy(() => import("./pages/guest/Guest"));
 const CekMember = React.lazy(() => import("./pages/CekMember"));
 
 
